@@ -1,0 +1,9 @@
+pkgs:
+  clap:
+    version: 0.5.0
+    license: MIT
+    description: Zig bindings for the sokol headers 
+    source_url: https://github.com/Infinitybeond1/sokol-zig
+    root: build.zig
+    files:
+      *
